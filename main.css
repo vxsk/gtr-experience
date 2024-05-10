@@ -1,0 +1,52 @@
+header img {
+    width: 60px;
+}
+
+.navbar-nav .nav-link.active {
+    color: #fff;
+}
+
+.nav-link {
+    text-align: center;
+    margin-left: 24px;
+}
+
+header {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    margin-bottom: 36px;
+}
+
+.card {
+    margin-top: 24px;
+    border: none;
+}
+
+.card-body {
+    border-top: 3px solid;
+    margin-top: 24px;
+}
+
+#imagem-principal {
+    width: 100%;
+}
+
+.estilo {
+    margin-top: 36px;
+    border-top: 3px solid #c3002f;
+    max-width: 42px;
+}
+
+footer {
+    padding: 16px 16px;
+    margin-top: 50px;
+}
+
+form button {
+    margin-top: 24px;
+}
+
+@media screen and (max-width:990px){
+    #li-inicio {
+        margin-top: 16px;
+    }
+}
